@@ -1,0 +1,30 @@
+a{
+  display:inline-block;
+  text-decoration: none;
+  margin-left: 10%;
+}
+#image1
+{
+  width: 160px;
+  height:100px;
+}
+#div1{
+  height:40%;
+}
+.ul1
+{
+  margin-left: 30px;
+}
+.navbar
+{
+  
+  background-color:white;
+}
+.navbar a{
+  font-size: 25px;
+}
+#back{
+  width:150px;
+  height:40%;
+  
+}
